@@ -1,9 +1,9 @@
 # DS_Assign_4 - Data Structures
 
-**Name - Rishita**
-**Roll No.- 2501010228**
-**Course- Btech CSE Core**
-**Section - A**
+-**Name - Rishita**
+-**Roll No.- 2501010228**
+-**Course- Btech CSE Core**
+-**Section - A**
 
 - **BST** (Binary Search Tree): insert, search, delete, and inorder traversal
 - **Directed Weighted Graph (Adjacency List)**: BFS and DFS traversals that print traversal order
